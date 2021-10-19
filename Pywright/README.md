@@ -9,6 +9,6 @@ python -m playwright install
 
 ```python
 # 流程紀錄
-# url 帶入藥執行的網頁
+# url 帶入要執行的網頁
 python -m playwright codegen "url"
 ```
