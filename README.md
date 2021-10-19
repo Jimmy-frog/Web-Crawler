@@ -1,4 +1,4 @@
-## Libeary
+## Library
 
 
 ```python
