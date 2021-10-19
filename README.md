@@ -1,7 +1,7 @@
-# Web-Crawler
+## Libeary
 
 
 ```python
 pip install requests
-pip install BeautifulSoup
+pip install BeautifulSoup4
 ```
